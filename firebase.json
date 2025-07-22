@@ -1,0 +1,21 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "koreatrafficsolution",
+          "appId": "1:246450266778:android:fbb897fc7ecd0db43af523",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "koreatrafficsolution",
+          "configurations": {
+            "android": "1:246450266778:android:fbb897fc7ecd0db43af523"
+          }
+        }
+      }
+    }
+  }
+}

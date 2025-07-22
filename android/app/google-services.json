@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "246450266778",
+    "firebase_url": "https://koreatrafficsolution-default-rtdb.firebaseio.com",
+    "project_id": "koreatrafficsolution",
+    "storage_bucket": "koreatrafficsolution.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246450266778:android:fbb897fc7ecd0db43af523",
+        "android_client_info": {
+          "package_name": "com.korea.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcaKjgZxmHPkp_FmT9ep-A5R__0d3Ii9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
